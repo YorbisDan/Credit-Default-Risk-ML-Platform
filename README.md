@@ -16,12 +16,17 @@ This project aims to assess the credit default risk of first-time loan applicant
 
 ## 📂 File Structure
 
-Credit_Risk_Project/
+📁 CreditDefaultPrediction/
 │
-├── streamlit_app.py # Main Streamlit dashboard
-├── final_predictions.csv # Sample model predictions
-├── README.md # This file
-└── data/ # Raw dataset sample
+├── streamlit_app.py             # ✅ App code
+├── final_predictions.csv        # ✅ Example prediction file
+├── requirements.txt             # ✅ Python packages
+├── README.md                    # ✅ Project description
+├── 📁 notebooks/                # Modeling and EDA work
+│   └── FinalProject_V3.ipynb
+│
+└── 📁 data/
+    └── RawLoanData_C.csv        # Sample
 
 ---
 
@@ -34,3 +39,4 @@ We recommend using a virtual environment:
 ```bash
 
 pip install -r requirements.txt
+

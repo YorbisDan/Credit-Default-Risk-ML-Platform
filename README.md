@@ -21,7 +21,7 @@ Credit_Risk_Project/
 ├── streamlit_app.py # Main Streamlit dashboard
 ├── final_predictions.csv # Sample model predictions
 ├── README.md # This file
-└── data/ # (Optional) Raw or cleaned datasets
+└── data/ # Raw dataset sample
 
 ---
 
@@ -32,4 +32,5 @@ Credit_Risk_Project/
 We recommend using a virtual environment:
 
 ```bash
+
 pip install -r requirements.txt

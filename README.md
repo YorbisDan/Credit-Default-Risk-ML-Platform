@@ -2,6 +2,8 @@
 
 This project aims to assess the credit default risk of first-time loan applicants using machine learning models. The models were trained and evaluated using PySpark, and the results are visualized through an interactive Streamlit dashboard.
 
+Dataset available on Kaggle: https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv
+
 ---
 
 ## Features
@@ -37,5 +39,6 @@ We recommend using a virtual environment:
 ```bash
 
 pip install -r requirements.txt
+
 
 

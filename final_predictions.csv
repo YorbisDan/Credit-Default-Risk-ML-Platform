@@ -1,0 +1,4 @@
+loan_amnt,int_rate,annual_inc,dti,open_acc,revol_bal,total_acc,term,grade,home_ownership,verification_status,purpose,prediction,default_flag,probability
+5000,10.65,24000,27.65,3,13648,9,36 months,B,RENT,Verified,credit_card,0,0,0.12
+10000,12.69,55000,1,2,1687,4,60 months,C,OWN,Source Verified,car,1,1,0.76
+15000,15.27,72000,19.48,10,2956,37,36 months,A,MORTGAGE,Not Verified,house,0,0,0.09

@@ -1,6 +1,6 @@
-# Credit Default Risk Prediction for First-Time Borrowers
+# Credit Default Risk Prediction for Borrowers with Limited Credit History
 
-This project aims to assess the credit default risk of first-time loan applicants using machine learning models. The models were trained and evaluated using PySpark, and the results are visualized through an interactive Streamlit dashboard.
+This project aims to assess credit default risk using machine learning models applied to large-scale lending data. The models were trained and evaluated in PySpark, and the results are visualized through an interactive Streamlit dashboard for comparative analysis and decision support.
 
 Dataset available on Kaggle: https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv
 
@@ -39,6 +39,7 @@ We recommend using a virtual environment:
 ```bash
 
 pip install -r requirements.txt
+
 
 
 
